@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Veltrix 1.0 is live!",
+    "summary": "First public release — every Minecraft version, Microsoft login, mods with one-click FPS boost, skin studio and cosmetics.",
+    "date": "2026-06-12T12:00:00Z",
+    "tag": "Release",
+    "url": ""
+  },
+  {
+    "title": "One-click FPS boost",
+    "summary": "Open Mods, hit the Performance tab and apply the Sodium + Lithium pack tuned to your Minecraft version.",
+    "date": "2026-06-11T12:00:00Z",
+    "tag": "Tip",
+    "url": ""
+  },
+  {
+    "title": "Grab any player's skin",
+    "summary": "Type a username in the Skins tab and their skin lands straight in your library.",
+    "date": "2026-06-10T12:00:00Z",
+    "tag": "Feature",
+    "url": ""
+  }
+]
